@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/ArturRod/dicom-ecg) (2023-06-19)
+
+**Note:** Fix Bug.
+
+## [1.0.7](https://github.com/ArturRod/dicom-ecg) (2023-06-19)
+
+**Note:** Update pakage ECG 2.0.5
+
 ## [1.0.6](https://github.com/ArturRod/dicom-ecg) (2022-08-24)
 
 **Note:** Load new version dicom-egc-web-viewer 2.0.0 -> Render on canvas.
